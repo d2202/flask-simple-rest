@@ -1,6 +1,6 @@
 # flask-simple-rest
 Простой REST-api с использованием Flask
-Документация опубликована [тут:](https://documenter.getpostman.com/view/16164404/TzeRo9PC)
+Документация опубликована [тут.](https://documenter.getpostman.com/view/16164404/TzeRo9PC)(сгенерировано через Postman)
 
 ## Суть:
 Cafe & Wifi - API для создания, обновления, удаления и получения данных о местах, где можно поработать вне дома. Объект БД имеет следующие поля:
